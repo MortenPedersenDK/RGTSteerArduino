@@ -1,0 +1,5 @@
+﻿# Each line below is a series of commands assigned to a port on the Arduino. Format is: <portnumber>;K;<keys>
+2;K;a
+3;K;d
+4;K;p
+5;K;l
