@@ -9,6 +9,23 @@ The principles of the solution is as follows:
 - The Arduino is connected to the PC running RGT app via USB. 
 - A program listens on the serial port, and performs keyboard inputs based on which pin is activated.
 
+### Parts list
+
+The solution is quite simple, - here is the parts I have used:
+- [Arduino Nano](https://www.google.com/search?q=arduino+nano&tbm=shop) microcontroller. Other models can be used too. 
+- [Momentary Button](https://www.google.com/search?q=momentary+button+panel+mount&tbm=shop). Any button that releases itself can be used.
+- [USB A - Mini cable](https://www.google.com/search?q=usb+mini+cable&tbm=shop). Depeding on the USB port on your Arduino. On my Nanos it is Mini.
+- Wire - I used wires from a network cable, as that was what I had.
+- [Electrical tape](https://www.google.com/search?q=electrical+tape&tbm=shop)
+  
+### And the tools:
+- Solder iron and tin
+- Wirestripper - or just a knife
+- Cable pulling spring - to pull the wires thru the handlebar
+- A 10mm drill for steel - for the hole at the back of the handlebar(that was the minumum size to insert the buttons)
+- A 7mm drill for steel - for the hold to mount the buttons to.
+
+
 ## Arduino part
 
 I have used an Arduino Nano, but any Arduino can be used.
